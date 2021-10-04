@@ -1,6 +1,6 @@
 ### Hola soy Venrra 👋
 
-Desarrorllo con muy buen rollo. Me gusta enredarme en una red.
+Me gustan las redes y me gusta programar de vez en cuando. VS code es mi editor fav.
 
 <!--
 **venrra/venrra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
