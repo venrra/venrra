@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm <a href="https://venrra.github.io">venrra</a> 👋</h1>
 <p align="center">
-Me gustan las redes y me gusta programar de vez en cuando. VS code es mi editor fav. 😄
+Apasionado de internet, simplemente, materia prima de mi trabajo, fuente de entretenimiento y enorme repositorio de conocimiento. 😄
 </p>
 <p align="center">
   <a href="https://github.com/venrra"><img src="https://github-readme-stats.vercel.app/api?username=venrra&hide_border=true&show_icons=true&text_color=4C71F1&bg_color=0000" alt="venrra's github stats"></a>
