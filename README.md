@@ -1,7 +1,13 @@
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+
+
 <h1 align="center">Hi, I'm <a href="https://venrra.github.io">venrra</a> 👋</h1>
 <p align="center">
 Apasionado de internet, simplemente, materia prima de mi trabajo, fuente de entretenimiento y enorme repositorio de conocimiento. 😄
 </p>
+
+[![@venrra's Holopin board](https://holopin.me/venrra)](https://holopin.io/@venrra)
+
 <p align="center">
   <a href="https://github.com/venrra"><img src="https://github-readme-stats.vercel.app/api?username=venrra&hide_border=true&show_icons=true&text_color=4C71F1&bg_color=0000" alt="venrra's github stats"></a>
 </p>
